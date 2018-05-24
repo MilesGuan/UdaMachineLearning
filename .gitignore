@@ -2,3 +2,5 @@ cifar-10-python.tar.gz
 preprocess_batch_*.p
 preprocess_test.p
 preprocess_validation.p
+dogs-vs-cats/train
+dogs-vs-cats/train.zip
